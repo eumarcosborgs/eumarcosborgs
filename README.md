@@ -7,9 +7,9 @@ Front-End Developer.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feumarcosborgs%2Fhit-counter&count_bg=%23008E79&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-I started programming at 14 for a while, but when I came back I just leaned more and more.
+I started programming at 14, it started as a joke having fun, but at 17 I migrated to web development, with focus.
 
-Today I use JavaScript/TypeScript and the entire ecosystem around this technology. My current focus is on Frontend, but I also have Backend skills.
+Today I use JavaScript/TypeScript and the entire ecosystem around this technology, mainly the React framework. My current focus is Frontend, however I also have knowledge in Backend.
 
 
 > My favorite job is turning dreams into reality.
